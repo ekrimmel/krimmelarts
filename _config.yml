@@ -1,7 +1,7 @@
 site: Krimmel Arts & Design
 
-url: https://www.krimmelarts.com/
-baseurl: 
+url: https://ekrimmel.github.io/krimmelarts
+baseurl: /krimmelarts
 
 collections:
   pages:
