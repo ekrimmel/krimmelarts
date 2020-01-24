@@ -6,20 +6,20 @@ featured_image: '/images/mosaics/mosaics_1.jpg'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/mosaics/mosaics_1.jpg">
-  <img src="/images/mosaics/mosaics_2.jpg">
-  <img src="/images/mosaics/mosaics_3.jpg">
-  <img src="/images/mosaics/mosaics_4.jpg">
-  <img src="/images/mosaics/mosaics_5.jpg">
-  <img src="/images/mosaics/mosaics_6.jpg">
-  <img src="/images/mosaics/mosaics_7.jpg">
-  <img src="/images/mosaics/mosaics_8.jpg">
-  <img src="/images/mosaics/mosaics_9.jpg">
-  <img src="/images/mosaics/mosaics_10.jpg">
-  <img src="/images/mosaics/mosaics_11.jpg">
-  <img src="/images/mosaics/mosaics_12.jpg">
-  <img src="/images/mosaics/mosaics_13.jpg">
-  <img src="/images/mosaics/mosaics_14.jpg">
+	<img src="../images/mosaics/mosaics_1.jpg">
+  <img src="../images/mosaics/mosaics_2.jpg">
+  <img src="../images/mosaics/mosaics_3.jpg">
+  <img src="../images/mosaics/mosaics_4.jpg">
+  <img src="../images/mosaics/mosaics_5.jpg">
+  <img src="../images/mosaics/mosaics_6.jpg">
+  <img src="../images/mosaics/mosaics_7.jpg">
+  <img src="../images/mosaics/mosaics_8.jpg">
+  <img src="../images/mosaics/mosaics_9.jpg">
+  <img src="../images/mosaics/mosaics_10.jpg">
+  <img src="../images/mosaics/mosaics_11.jpg">
+  <img src="../images/mosaics/mosaics_12.jpg">
+  <img src="../images/mosaics/mosaics_13.jpg">
+  <img src="../images/mosaics/mosaics_14.jpg">
 </div>
 
 ### About

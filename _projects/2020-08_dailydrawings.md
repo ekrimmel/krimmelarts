@@ -6,9 +6,9 @@ featured_image: '/images/dailydrawings/dailydrawings_1.jpg'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/dailydrawings/dailydrawings_1.jpg">
-  <img src="/images/dailydrawings/dailydrawings_2.jpg">
-  <img src="/images/dailydrawings/dailydrawings_3.jpg">
+	<img src="../images/dailydrawings/dailydrawings_1.jpg">
+  <img src="../images/dailydrawings/dailydrawings_2.jpg">
+  <img src="../images/dailydrawings/dailydrawings_3.jpg">
 </div>
 
 ### About

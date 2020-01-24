@@ -6,24 +6,24 @@ featured_image: '/images/inspiredbytheyard/inspiredbytheyard_1.jpg'
 ---
 
 <div class="gallery" data-columns="1">
-	<img src="/images/inspiredbytheyard/inspiredbytheyard_1.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_2.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_3.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_4.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_5.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_6.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_7.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_8.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_9.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_10.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_11.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_12.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_13.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_14.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_15.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_16.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_17.jpg">
-  <img src="/images/inspiredbytheyard/inspiredbytheyard_18.jpg">
+	<img src="../images/inspiredbytheyard/inspiredbytheyard_1.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_2.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_3.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_4.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_5.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_6.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_7.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_8.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_9.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_10.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_11.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_12.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_13.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_14.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_15.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_16.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_17.jpg">
+  <img src="../images/inspiredbytheyard/inspiredbytheyard_18.jpg">
 </div>
 
 ### About
