@@ -10,9 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  series:
     output: true
-    permalink: /project/:slug
+    permalink: /series/:slug
 
 defaults:
   -
@@ -35,9 +35,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "series"
     values:
-      layout: "project"
+      layout: "series"
 
 markdown: kramdown
 

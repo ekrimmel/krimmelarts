@@ -21,4 +21,4 @@ featured_image: '/images/landscapes/landscapes_1.jpg'
 
 ### About
 
-<iframe src="https://youtu.be/fXa6cDpJF_k" width="640" height="360" frameborder="0" allowfullscreen></iframe>
+Most of my daily drawings are landscapes.

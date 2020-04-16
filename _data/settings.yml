@@ -8,12 +8,10 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Series'
       url: '/'
     - title: 'About'
       url: '/about'
-    - title: 'CV'
-      url: '/cv'
 
 footer_settings:
   logo_image:

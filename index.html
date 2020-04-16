@@ -6,34 +6,27 @@ featured_image: /images/social.jpg
 ---
 
 <!--<section class="intro">
-
-	<div class="wrap">
-
-		<h1>Krimmel Arts & Design</h1>
-		<p>Projects</p>
-
-	</div>
-
+	<div class="wrap"></div>
 </section>-->
 
 <section class="portfolio">
 
 	<div class="content-wrap portfolio-wrap">
 
-		{% for project in site.projects reversed %}
+		{% for series in site.series reversed %}
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ project.url | relative_url }}">
+			<a class="portfolio-item__link" href="{{ series.url | relative_url }}">
 
 				<div class="portfolio-item__image">
-					<img src="{{ project.featured_image | relative_url }}" alt="{{ project.title }}">
+					<img src="{{ series.featured_image | relative_url }}" alt="{{ series.title }}">
 				</div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						<h2 class="portfolio-item__title">{{ series.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ series.subtitle }}</p>
 					</div>
 				</div>
 

@@ -13,7 +13,7 @@ My most recent work is _Sky Mosaic_, an art work commissioned by the NTC Foundat
 
 **2018**: Finalist for the Centennial Art Project for the City of El Segundo. El Segundo, CA
 
-**2018**: _Sky Mosaic_, an art work commissioned by the NTC Foundation for ARTS DISTRICT Liberty Station, San Diego, CA
+**2018**: _Sky Mosaic_, an art work commissioned by the NTC Foundation for [ARTS DISTRICT Liberty Station](https://www.facebook.com/ArtsDistrictLibertyStation), San Diego, CA
 
 **2017**: _Color Field Fence_ permanent installation, Art Produce Garden, San Diego, CA
 
@@ -27,7 +27,7 @@ My most recent work is _Sky Mosaic_, an art work commissioned by the NTC Foundat
 
 **2013**: _Green Art Parade_, University Ave, San Diego, CA
 
-**2009 - 2012**: _wheat hARvesT_, a performance art piece involving locally grown wheat and the community. Performed in 2009 at North Park Art Produce Gallery, Art Around Adams, Innovations Academy, Normal Heights/Kensington Library, and Roots Growing Places. Reviewed in Public Art Review, Food for Thought Issue 46. San Diego, CA
+**2009 - 2012**: _[wheat hARvesT](http://wheatharvest.org)_, a performance art piece involving locally grown wheat and the community. Performed in 2009 at North Park Art Produce Gallery, Art Around Adams, Innovations Academy, Normal Heights/Kensington Library, and Roots Growing Places. Reviewed in Public Art Review, Food for Thought Issue 46. San Diego, CA
 
 **2011**: _A Watershed Tale_ puppet performance, Wild Willow Farm, San Diego, CA
 
@@ -43,4 +43,4 @@ My most recent work is _Sky Mosaic_, an art work commissioned by the NTC Foundat
 
 **1983**: _Spaces_, Sushi Gallery, San Diego, CA
 
-**1983**: _Art on the Fence_, Horton Plaza public art commission, San Diego, CA
+**1983**: _Art on the Fence_, [Horton Plaza public art commission](http://wheatharvest.org/support/arts_plan.pdf), San Diego, CA
