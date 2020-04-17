@@ -1,7 +1,6 @@
 site: Krimmel Arts & Design
 
 url: https://krimmelarts.com
-baseurl: /krimmelarts
 
 collections:
   pages:
