@@ -11,6 +11,10 @@ My most recent work is _Sky Mosaic_, an art work commissioned by the NTC Foundat
 
 **Select Exhibitions, Performance and items of interest:**
 
+**2026**: Wet Paint, Works on the Wall (WOW), Spoke the Hub Re:Creation Center, Brooklyn, NY
+
+**2026**: Changing Terrain Regional Artists Interpret Our Landscape, Oceanside Museum of Art & San Diego History Center, Oceanside, CA and San Diego, CA
+
 **2018**: Finalist for the Centennial Art Project for the City of El Segundo. El Segundo, CA
 
 **2018**: _Sky Mosaic_, an art work commissioned by the NTC Foundation for [ARTS DISTRICT Liberty Station](https://www.facebook.com/ArtsDistrictLibertyStation), San Diego, CA
